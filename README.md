@@ -13,10 +13,10 @@ The inspiration came from the dynamic effects in the classic game "Snake." In th
 ## Technical Description：
 
 noiseOffset and colors: By updating the value of noiseOffset, the noise function produces new outputs, achieving dynamic color changes.
-Constants Defined:
+
 
 RECT_COUNT, ROW, COLUMN: Used to define the number and type of rectangles.
-Arrays:
+
 
 bigRectangleAttributes: An array of attributes for large rectangles.
 perlinNoiseArray: An array of Perlin noise values for small rectangle animations.
